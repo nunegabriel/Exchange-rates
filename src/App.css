@@ -1,38 +1,58 @@
-.App {
-  text-align: center;
+.logo {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  font-size: 35px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.home-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 140px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+form {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.btn-search {
+width: 100px;
+margin-top: 10px;
+padding: 10px;
+border-radius: 5px;
+background-color: rgb(106, 106, 254);
+color: white;
+border: none;
+}
+
+.search {
+  margin-top: 20px;
+  height: 35px;
+  border-radius: 25px;
+  border: 1px solid #090909;
+  padding: 5px;
+  width: 500px;
+  text-align: center;
+}
+
+.Hero {
+  height: 400px;
+  background-image: url('/src/img/B1.png');
+}
+
+.text-desc,
+.text-2
+ {
   color: white;
+  font-size: 25px;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.text-desc {
+  font-weight: bold;
 }

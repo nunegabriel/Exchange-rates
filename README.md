@@ -53,7 +53,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Space Travelers' Hub <a name="about-project"></a>
+# 📖 Exchange Rates <a name="about-project"></a>
 
 
 ** Space Travelers' Hub** is  a web application for a company that provides commercial and scientific space travel services.
