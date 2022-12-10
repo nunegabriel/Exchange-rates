@@ -88,7 +88,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://cxinx.netlify.app/)
+- [Live Demo Link](https://splendorous-tulumba-d36d87.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
