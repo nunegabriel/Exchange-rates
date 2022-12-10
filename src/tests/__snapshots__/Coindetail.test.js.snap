@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detail page testing 1`] = `
+Array [
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <p
+      className="exit-div"
+    >
+      <i
+        className="Exit"
+        label="next"
+        role="button"
+        tabIndex={0}
+      />
+    </p>
+    <div>
+      <h1
+        className="logo"
+      >
+        CoinX
+      </h1>
+    </div>
+  </a>,
+  <table>
+    <div
+      className="crypto-div"
+    />
+  </table>,
+]
+`;
