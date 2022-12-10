@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { MemoryRouter as Router } from 'react-router-dom';
 import renderer from 'react-test-renderer';
@@ -15,6 +14,6 @@ it('Detail page testing', () => {
         <Detail />
       </Router>
     </Provider>,
-  )
+  );
   expect(detail).toMatchSnapshot();
 });
