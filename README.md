@@ -126,7 +126,7 @@ Install this project with:
 
 
 ```sh
-  cd React-Group-project
+  cd Xcoin
   npm install
 ```
 
