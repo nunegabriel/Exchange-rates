@@ -24,13 +24,13 @@ After you're finished please remove all the comments and instructions!
 
 
 
-# <h3><b>exchange rates</b></h3>
+# <h3><b></b></h3>
 
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
+# 📗 coinX
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -53,10 +53,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Exchange Rates <a name="about-project"></a>
+# 📖 CoinX <a name="about-project"></a>
 
 
-** Space Travelers' Hub** is  a web application for a company that provides commercial and scientific space travel services.
+** coinX** is  a web application that provides latest rates of crypto currencies. This aplication includes various details of crypto currencies. It was built with the ** coincap API**    
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -77,8 +77,8 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- book rockets
-- join selected space missions
+- View rates of crypto Currencies
+- View details about selected crypro currencies
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +88,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://cxinx.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +116,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/nunegabriel/React-Group-Project.git
+  git clone https://github.com/nunegabriel/XCoin.git
 ```
 --->
 
@@ -173,7 +173,7 @@ To run tests, run the following command:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] A dragon section would be added
+- [ ] A search bar would be added
 
 <!-- CONTRIBUTING -->
 
