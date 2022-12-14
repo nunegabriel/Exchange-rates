@@ -24,13 +24,13 @@ After you're finished please remove all the comments and instructions!
 
 
 
-# <h3><b>exchange rates</b></h3>
+# <h3><b></b></h3>
 
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
+# 📗 coinX
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -53,10 +53,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Space Travelers' Hub <a name="about-project"></a>
+# 📖 CoinX <a name="about-project"></a>
 
 
-** Space Travelers' Hub** is  a web application for a company that provides commercial and scientific space travel services.
+** coinX** is  a web application that provides latest rates of crypto currencies. This aplication includes various details of crypto currencies. It was built with the coincap API    
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -77,8 +77,8 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- book rockets
-- join selected space missions
+- View rates of crypto Currencies
+- View details about selected crypro currencies
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,9 +88,12 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://splendorous-tulumba-d36d87.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## APP DEMONSTRATION
+- [Video Demonstraion](https://www.loom.com/share/df0bc6bc5c90463eb22f6d6f2fe152ce)
 
 <!-- GETTING STARTED -->
 
@@ -116,7 +119,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/nunegabriel/React-Group-Project.git
+  git clone https://github.com/nunegabriel/XCoin.git
 ```
 --->
 
@@ -126,7 +129,7 @@ Install this project with:
 
 
 ```sh
-  cd React-Group-project
+  cd Xcoin
   npm install
 ```
 
@@ -173,7 +176,7 @@ To run tests, run the following command:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] A dragon section would be added
+- [ ] A search bar would be added
 
 <!-- CONTRIBUTING -->
 
@@ -201,6 +204,8 @@ Give a ⭐ if you like this project!
 * Thanks to the Code Reviewer(s) for the insightful feedbacks.
 * A great thanks to My coding partner, morning session team, and standup team for their contributions.
 Hat tip to anyone whose code was used.
+* Nelson Sakwa the author of the original design
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
