@@ -56,7 +56,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 CoinX <a name="about-project"></a>
 
 
-** coinX** is  a web application that provides latest rates of crypto currencies. This aplication includes various details of crypto currencies. It was built with the coincap API    
+coinX is  a web application that provides latest rates of crypto currencies. This aplication includes various details of crypto currencies. It was built with the coincap API    
 
 ## 🛠 Built With <a name="built-with"></a>
 
